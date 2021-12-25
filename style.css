@@ -10,7 +10,7 @@
     box-sizing: border-box;
     text-decoration: none;
     outline: none; border:none;
-    text-transform: normal;
+    text-transform: capitalization;
     transition: all .2s linear;
 }
 
